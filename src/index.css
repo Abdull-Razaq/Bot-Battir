@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.ui.four.column.grid {
+  display: flex;
+}
+
+.ui.column {
+  display: grid;
+}
